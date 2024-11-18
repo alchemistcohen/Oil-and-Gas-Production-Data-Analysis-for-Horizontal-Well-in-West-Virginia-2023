@@ -16,6 +16,6 @@ Insighs and recommendations
 - Wells 47100303412 and 4710303437 are the most productive ubicated in Wetzel county.
 
 - The Water-Oil Ratio (WOR) is calculated by dividing the total water production by the total oil production for each well. High values of WOR indicate potential inefficiency, as more water is produced relative 
-  to oil. Well 4709502214 in Tyler county is the most inefficient , it is necessary to explore operational improvements, because by the other side Tyler county have the greatest production overall.
+  to oil. Well 4709502214 in Tyler county is the most inefficient , it is necessary to explore operational improvements,  by the other side Tyler county have the greatest production overall.
 
 - Wetzel County shows potential for further exploration as the WOR is the lowest, also have the wells with more production.
